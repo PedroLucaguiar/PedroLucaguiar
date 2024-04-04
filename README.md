@@ -5,9 +5,9 @@
 
 <p align="center">I am a full-stack systems analyst and developer passionate about using technology to solve challenges. I have a genuine love for programming, and in my free time, I enjoy using programming to develop games and apps. I am always seeking to grow in my field and constantly looking for new challenges to enhance my skills and knowledge.
 
-The art challenges the technology, and the technology inspires the art. (John Lasseter)</p>&nbsp;
+The art 🎨 challenges the technology, and the technology 💻 inspires the art. (John Lasseter)</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-Pedro Lucas Aguiar.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
